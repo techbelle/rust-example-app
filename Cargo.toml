@@ -1,0 +1,15 @@
+[package]
+name = "demo"
+version = "0.1.0"
+authors = ["Saghm Rossi <saghmrossi@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+mongodb = { git = "https://github.com/mongodb/mongo-rust-driver", branch = "master" }
+tokio =  { version = "0.2.18", features = ["macros"] }
+bson = "0.14.1"
+serde = { version = "1.0.106", features = ["derive"] }
+futures = "0.3.4"
+actix-web = "2.0.0"
+actix-rt = "1.1.0"
+anyhow = "1.0.28"
