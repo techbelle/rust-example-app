@@ -1,4 +1,4 @@
-# rust-driver-demo
+# rust-example-app
 This micro application can be used by beginners to explore Rust coding on their own alongside a free MongoDB Atlas database. Note: but seriously, this is a beginner app :)
 
 # Getting Started
