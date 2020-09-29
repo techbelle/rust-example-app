@@ -1,4 +1,4 @@
-#![allow(dead_code)]
+m#![allow(dead_code)]
 
 mod error;
 
@@ -62,7 +62,7 @@ impl AppState {
         });
 
         self.client
-            .database("rust-demo-app")
+            .database("rust-example-app")
             .collection("keywords")
             .insert_many(keywords, None)
             .await?;
