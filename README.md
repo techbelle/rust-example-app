@@ -1,5 +1,5 @@
 # rust-example-app
-This micro application can be used by beginners to explore Rust coding on their own alongside a free MongoDB Atlas database. Note: but seriously, this is a beginner app :)
+This micro application can be used by total beginners to explore Rust coding on their own with a free MongoDB Atlas database. Note: but seriously, this is a beginner app :)
 
 # Getting Started
 1. You'll want to follow the rust installation instructions at https://www.rust-lang.org/tools/install
